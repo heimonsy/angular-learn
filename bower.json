@@ -1,0 +1,23 @@
+{
+  "name": "angular-learn",
+  "version": "0.0.0",
+  "authors": [
+    "heimonsy <heimonsy@gmail.com>"
+  ],
+  "description": "learn",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-animate": "~1.3.15",
+    "angular-route": "~1.3.15",
+    "bootstrap": "~3.3.4",
+    "jquery": "~2.1.3",
+    "angular": "~1.3.15"
+  }
+}
